@@ -15,6 +15,8 @@ Clone the repository or download the source code files.
 
 Run the calculator.py script using Python:
 
+
+
 **python calculator.py**
 The calculator window will appear with a display screen and buttons.
 
@@ -28,7 +30,8 @@ Click the "C" button to clear the input field.
 
 Close the calculator window to exit the application.
 
-License
+License:
+
 This project is licensed under the MIT License.
 
 Feel free to modify and distribute the code as per the license terms.
