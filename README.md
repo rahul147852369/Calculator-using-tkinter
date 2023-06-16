@@ -1,4 +1,6 @@
 **Calculator Application**
+
+
 This is a simple calculator application built using the Tkinter library in Python. It provides a graphical user interface with buttons for numbers and arithmetic operations.
 
 **Features**
@@ -18,6 +20,8 @@ Run the calculator.py script using Python:
 
 
 **python calculator.py**
+
+
 The calculator window will appear with a display screen and buttons.
 
 Click the number buttons to enter digits.
